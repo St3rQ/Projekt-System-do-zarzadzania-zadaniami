@@ -1,0 +1,3 @@
+1|Herbata|Zrobic herbate|15-02-2024||2|W trakcie
+2|5|5|15-02-2024||2|W trakcie
+3|Woda|Napic sie wody|15-02-2024|15-02-2024|1|Zakończone

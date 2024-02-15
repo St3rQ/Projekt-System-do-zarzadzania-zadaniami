@@ -1,0 +1,14 @@
+D:\Projekty\TO_DO\bin\Debug\net8.0\TO_DO.exe
+D:\Projekty\TO_DO\bin\Debug\net8.0\TO_DO.deps.json
+D:\Projekty\TO_DO\bin\Debug\net8.0\TO_DO.runtimeconfig.json
+D:\Projekty\TO_DO\bin\Debug\net8.0\TO_DO.dll
+D:\Projekty\TO_DO\bin\Debug\net8.0\TO_DO.pdb
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.AssemblyInfoInputs.cache
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.AssemblyInfo.cs
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.csproj.CoreCompileInputs.cache
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.dll
+D:\Projekty\TO_DO\obj\Debug\net8.0\refint\TO_DO.dll
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.pdb
+D:\Projekty\TO_DO\obj\Debug\net8.0\TO_DO.genruntimeconfig.cache
+D:\Projekty\TO_DO\obj\Debug\net8.0\ref\TO_DO.dll
